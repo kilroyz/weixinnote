@@ -1,0 +1,35 @@
+{
+	"RootView":{
+		"width":"479",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"width":"71",
+				"x":"17",
+				"y":"15",
+				"id":"img_logo",
+				"source":"source://image/d_def.png",
+				"type":"do_ImageView",
+				"height":"71"
+			},
+			{
+				"width":"188",
+				"x":"108",
+				"y":"35",
+				"fontSize":"26",
+				"id":"lb_title",
+				"type":"do_Label",
+				"height":"33"
+			},
+			{
+				"x":"431",
+				"width":"25",
+				"y":"38",
+				"id":"able",
+				"type":"do_ImageView",
+				"height":"25"
+			}
+		],
+		"height":"95"
+	}
+}
